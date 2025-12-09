@@ -9,7 +9,7 @@ Použité počítače a nářadí: šroubovák
 
 
 
-#PŘÍPRAVA
+### B.PŘÍPRAVA
 
 
 DEMONTÁŽ
