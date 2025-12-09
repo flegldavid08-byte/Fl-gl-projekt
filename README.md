@@ -9,16 +9,16 @@ Použité počítače a nářadí: šroubovák
 
 
 
-### B.PŘÍPRAVA
+### PŘÍPRAVA
 
 
-DEMONTÁŽ
+###DEMONTÁŽ
 
 
-KONTROLA
+###KONTROLA
 
 
-MONTÁŽ
+###MONTÁŽ
 
 
-TESTOVÁNÍ
+###TESTOVÁNÍ
