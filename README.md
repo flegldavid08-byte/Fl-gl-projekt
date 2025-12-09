@@ -12,13 +12,13 @@ Použité počítače a nářadí: šroubovák
 ### PŘÍPRAVA
 
 
-###DEMONTÁŽ
+### DEMONTÁŽ
 
 
-###KONTROLA
+### KONTROLA
 
 
-###MONTÁŽ
+### MONTÁŽ
 
 
-###TESTOVÁNÍ
+### TESTOVÁNÍ
