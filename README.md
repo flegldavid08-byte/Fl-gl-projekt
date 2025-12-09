@@ -5,3 +5,5 @@ Vybral jsem si to, protože jsem chtěl vědět jaký počítač měl děda
 
 Zde bude popsaná činnost s obrázkama
 
+Použité počítače a nářadí: šroubovák 
+
