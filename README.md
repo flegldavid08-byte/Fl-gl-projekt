@@ -10,6 +10,8 @@ Použité počítače a nářadí: šroubovák
 
 
 ### PŘÍPRAVA
+Připravil jsem si šroubovák, oba dva počítače a dobře si rosvítím. 
+/images
 
 
 ### DEMONTÁŽ
