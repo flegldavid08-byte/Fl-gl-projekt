@@ -25,7 +25,8 @@ oba počítače, které jsem chtěl rozebírat.
 Protože mám doma nastavitelné světlo, nastavil jsem 5000 K, aby bylo neutrální a dobře se mi pracovalo. Při přípravě jsem si také přečetl pár rad a postupů, ve kterých mi pomohla také AI.
 
 ## DEMONTÁŽ
-### 1. Nejprve jsem u obou počítačů sundal boční kryt.
+### 1.
+Nejprve jsem u obou počítačů sundal boční kryt.
 Použil jsem křížový šroubovák a při některých šroubcích bylo potřeba použít i trochu síly, protože byly staré a utažené více, než je dnes běžné.
 
 ## KONTROLA
