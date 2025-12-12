@@ -13,6 +13,7 @@ Zvolil jsem si toto téma, protože jsem chtěl zjistit, jaký počítač měl m
 
 ## PŘÍPRAVA
 Příprava byla poměrně jednoduchá.
+
 Potřeboval jsem:
 
 křížový šroubovák,
