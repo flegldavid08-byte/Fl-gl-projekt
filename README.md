@@ -1,19 +1,27 @@
 # Flegl-ročníkový projekt
 ## Cíl
-Cílem projektu je provést kompletní, bezpečné a dokumentované rozebrání stolního počítače a jeho následné složení. Projekt slouží jako praktická příručka pro pochopení vnitřní struktury PC
+Cílem projektu je provést kompletní, bezpečné a zdokumentované rozebrání dvou stolních počítačů a následně je znovu složit. Projekt slouží jako praktická příručka pro pochopení vnitřní struktury PC, fungování jednotlivých komponentů
 
 ## Zadání
-Vybrat si něco co souvisí s mím oborem (hlavní je abych něco dělal a vyzkoušel si)
+Mým úkolem bylo vybrat si projekt, který souvisí s mým oborem a zároveň mi umožní něco si prakticky vyzkoušet.
 
 ### Tým 
-Pracoval jsem na tom částečně sám s pomocí táty
+Pracoval jsem na tom částečně sám s pomocí táty.
 
 ### Proč jsem si to vybral
-Vybral jsem si to, protože jsem chtěl vědět jaký počítač měl děda a trochu to víc prozkoumat. Taky jsem chtěl aby táta aspoň věděl co v tom počítači je.
+Zvolil jsem si toto téma, protože jsem chtěl zjistit, jaký počítač měl můj děda, jaké komponenty obsahoval a v jakém je stavu. Zároveň jsem chtěl, aby táta věděl, jak počítač funguje a co se v něm nachází.
 
 ## PŘÍPRAVA
-Příprava byla docela jednoduchá stačil mi šroubovák a trochu pomoci s ai. A samozřejmě jsem na to potřeboval s dobré světlo abych na to viděl. Protože mám doma nastavené světlo nastavil jsem to na 5000k. A ještě přinést ty dva počítače.
+Příprava byla poměrně jednoduchá.
+Potřeboval jsem:
 
+křížový šroubovák,
+
+dobré osvětlení,
+
+oba počítače, které jsem chtěl rozebírat.
+
+Protože mám doma nastavitelné světlo, nastavil jsem 5000 K, aby bylo neutrální a dobře se mi pracovalo. Při přípravě jsem si také přečetl pár rad a postupů, ve kterých mi pomohla také AI.
 
 ## DEMONTÁŽ
 Nejdřív jsem od obou počítačů sundal spodní kryt. Na to jsem použil křížový šroubovák a trochu síly.
