@@ -1,5 +1,5 @@
 # Flegl-ročníkový projekt
-### Cíl
+## Cíl
 Cílem projektu je provést kompletní, bezpečné a dokumentované rozebrání stolního počítače a jeho následné složení. Projekt slouží jako praktická příručka pro pochopení vnitřní struktury PC
 
 ### Zadání
