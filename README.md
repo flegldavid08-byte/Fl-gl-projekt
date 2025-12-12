@@ -8,12 +8,8 @@ Vybrat si něco co souvisí s mím oborem (hlavní je abych něco dělal a vyzko
 #### Tým 
 Pracoval jsem na tom částečně sám s pomocí táty
 
-Vybral jsem si to, protože jsem chtěl vědět jaký počítač měl děda
-
-Zde bude popsaná činnost s obrázkama
-
-Použité počítače a nářadí: šroubovák 
-
+#### Proč jsem si to vybral
+Vybral jsem si to, protože jsem chtěl vědět jaký počítač měl děda a trochu to víc prozkoumat. Taky jsem chtěl aby táta aspoň věděl co v tom počítači je.
 
 
 ### PŘÍPRAVA
