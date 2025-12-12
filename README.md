@@ -5,7 +5,7 @@ Cílem projektu je provést kompletní, bezpečné a dokumentované rozebrání 
 ### Zadání
 Vybrat si něco co souvisí s mím oborem (hlavní je abych něco dělal a vyzkoušel si)
 
-###### Tým 
+#### Tým 
 Pracoval jsem na tom částečně sám s pomocí táty
 
 Vybral jsem si to, protože jsem chtěl vědět jaký počítač měl děda
