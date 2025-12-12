@@ -13,7 +13,7 @@ Vybral jsem si to, protože jsem chtěl vědět jaký počítač měl děda a tr
 
 
 ### PŘÍPRAVA
-Připravil jsem si šroubovák, oba dva počítače a dobře si rosvítím. 
+Příprava byla docela jednoduchá stačil mi šroubovák a trochu pomoci s ai. A samozřejmě jsem na to potřeboval s dobré světlo abych na to viděl. Protože mám doma nastavené světlo nastavil jsem to na 5000k. A ještě dva počítače.
 
 
 
