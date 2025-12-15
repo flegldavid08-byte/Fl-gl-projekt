@@ -41,7 +41,7 @@ Ověřil jsem, zda nejsou kabely poškozené.
 Ujistíme se, že jste odpojili napájecí kabely (včetně těch vedoucích k disku a optické mechanice) a datové kabely (SATA).
 ### 4)krok
 #### Vyjmutí úložiště a optické mechaniky
-Pevný disk = Vyjmuli jste pevný disk (HDD) formátu 3.5". Jde o model Western Digital Caviar Black s kapacitou 750 GB, který používá rozhraní SATA.
+Pevný disk = Vyjmuli jste pevný disk (HDD). Jde o model Western Digital Caviar Black s kapacitou 750 GB, který používá rozhraní SATA.
 Optická mechanika = Vyjmuli jste Sony Optiarc DVD±RW mechaniku (AD-5260S), která také používá rozhraní SATA.
 ## KONTROLA
 
