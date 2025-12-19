@@ -66,7 +66,7 @@ Základní panel,   Ukazuje konektory pro připojení externích zařízení: PS
 
 Zdroj (ARENA 355W),   Převádí střídavý proud ze zásuvky na stejnosměrný proud s různým napětím, které je potřeba k napájení všech komponent v počítači. Model ARENA ANP-355A12 s výkonem 355W.
 
-Základní deska (ASUS P5QL-E, bez CPU/RAM),    Deska, ke které se připojují všechny ostatní komponenty (procesor, paměti, disky, karty). Je to hlavní okruh počítače, který umožňuje všem dílům komunikovat. Vypadá to na model ASUS P5QL-E nebo podobný z éry patice LGA 775 a pamětí DDR2.  
+Základní deska (ASUS P5QL-E, bez CPU/RAM),    Deska, ke které se připojují všechny ostatní komponenty (procesor, paměti, disky, karty). Je to hlavní okruh počítače, který umožňuje všem dílům komunikovat. Je to na model ASUS P5QL-E nebo podobný z éry patice LGA 775 a pamětí DDR2.  
 
 CPU (Procesor, piny dolů),   "Mozek" počítače. Provádí veškeré výpočty a zpracovává instrukce programů. Dle patice na desce je to procesor pro patici LGA.
 
