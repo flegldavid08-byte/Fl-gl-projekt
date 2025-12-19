@@ -23,7 +23,7 @@ dobré osvětlení,
 oba počítače, které jsem chtěl rozebírat.
 
 Protože mám doma nastavitelné světlo, nastavil jsem 5000 K, aby bylo neutrální a dobře se mi pracovalo. Při přípravě jsem si také přečetl pár rad a postupů, ve kterých mi pomohla také AI.
-![Uploading image.jpeg…]()
+
 
 ## DEMONTÁŽ
 ### 1)krok 
@@ -77,6 +77,19 @@ HDD (Western Digital 750GB SATA 3.5"),    Trvalé úložiště pro operační sy
 Optická mechanika (Sony Optiarc SATA),    Zařízení pro čtení a zápis dat na optické disky, jako jsou CD a DVD. Jedná se o Sony Optiarc AD-5260S DVD vypalovačku s rozhraním SATA.
 
 Síťová karta (TP-Link)     Umožňuje počítači připojení k síti (např. domácí router nebo internet) pomocí síťového kabelu (konektor RJ-45). Jedná se o kartu TP-Link pro slot PCI.
+
+
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="IMG_0494.jpeg" width="250" alt="Měnič – pohled 1">
+  <img src="IMG_0499.jpeg" width="250" alt="Měnič – pohled 2">
+  <img src="IMG_0502.jpeg" width="250" alt="Měnič – pohled 3">
+  <img src="IMG_0503.jpeg" width="250" alt="Měnič – detail">
+  <img src="IMG_0507.jpeg" width="250" alt="Vnitřní elektronika">
+  <img src="IMG_0511.jpeg" width="250" alt="Celkový pohled">
+</div>
+
+
 ## Porovnání
 
 
