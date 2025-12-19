@@ -91,5 +91,6 @@ Síťová karta (TP-Link)     Umožňuje počítači připojení k síti (např.
 ## VIDEO
 
 ### CITACE
+Pomoc táty a umělé inteligence google Gemii.
 
 
