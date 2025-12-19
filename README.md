@@ -87,7 +87,10 @@ Síťová karta (TP-Link)     Umožňuje počítači připojení k síti (např.
   <img src="IMG_0503.jpeg" width="250" alt="Měnič – detail">
   <img src="IMG_0507.jpeg" width="250" alt="Vnitřní elektronika">
   <img src="IMG_0511.jpeg" width="250" alt="Celkový pohled">
-</div>
+</
+
+## DEMONTÁŽ
+
+### CITACE
 
 
-## VIDEA
