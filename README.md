@@ -90,7 +90,4 @@ Síťová karta (TP-Link)     Umožňuje počítači připojení k síti (např.
 </div>
 
 
-## Porovnání
-
-
 ## VIDEA
