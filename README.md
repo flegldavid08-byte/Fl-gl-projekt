@@ -89,7 +89,11 @@ Síťová karta (TP-Link)     Umožňuje počítači připojení k síti (např.
   <img src="IMG_0511.jpeg" width="250" alt="Celkový pohled">
 </
 
-## DEMONTÁŽ
+
+
+
+
+## VIDEO
 
 ### CITACE
 
