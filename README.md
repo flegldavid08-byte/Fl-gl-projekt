@@ -79,16 +79,14 @@ Optická mechanika (Sony Optiarc SATA),    Zařízení pro čtení a zápis dat 
 Síťová karta (TP-Link)     Umožňuje počítači připojení k síti (např. domácí router nebo internet) pomocí síťového kabelu (konektor RJ-45). Jedná se o kartu TP-Link pro slot PCI.
 
 
-
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="IMG_0494.jpeg" width="250" alt="Měnič – pohled 1">
   <img src="IMG_0499.jpeg" width="250" alt="Měnič – pohled 2">
   <img src="IMG_0502.jpeg" width="250" alt="Měnič – pohled 3">
   <img src="IMG_0503.jpeg" width="250" alt="Měnič – detail">
   <img src="IMG_0507.jpeg" width="250" alt="Vnitřní elektronika">
-  <img src="IMG_0511.jpeg" width="250" alt="Celkový pohled"></
-
-
+  <img src="IMG_0511.jpeg" width="250" alt="Celkový pohled">
+</div>
 
 ## VIDEO
 
