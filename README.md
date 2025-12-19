@@ -23,6 +23,7 @@ dobré osvětlení,
 oba počítače, které jsem chtěl rozebírat.
 
 Protože mám doma nastavitelné světlo, nastavil jsem 5000 K, aby bylo neutrální a dobře se mi pracovalo. Při přípravě jsem si také přečetl pár rad a postupů, ve kterých mi pomohla také AI.
+![Uploading image.jpeg…]()
 
 ## DEMONTÁŽ
 ### 1)krok 
