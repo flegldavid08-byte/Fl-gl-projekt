@@ -105,6 +105,7 @@ Optická mechanika (Sony Optiarc SATA),    Zařízení pro čtení a zápis dat 
 
 Síťová karta (TP-Link)     Umožňuje počítači připojení k síti (např. domácí router nebo internet) pomocí síťového kabelu (konektor RJ-45). Jedná se o kartu TP-Link pro slot PCI.
 
+Ventilátor (AVC): Systémový ventilátor (model DS08025B12U) s kuličkovým ložiskem (DC 12V, 0.70A) připojený přes 4-pinový konektor pro regulaci otáček.
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="IMG_0494.jpeg" width="250" alt="Měnič – pohled 1">
