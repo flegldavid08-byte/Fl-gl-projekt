@@ -56,6 +56,7 @@ Následně jsem odstranil Zdroj
 Vyjmutí šlo tak hladce ,ale nakonec jsem to zvládl. Jedná se o model ASUS P5QL-E. Má patici LGA 775 pro procesor a sloty pro RAM (žluté). Deska je již v této fázi demontáže bez pamětí RAM, grafické karty a procesoru.
 Zadní panel (I/O Shield): Je vidět zadní I/O panel se staršími porty jako jsou PS/2, (zelený/fialový) pro klávesnici/myš, sériový port (modrý), paralelní port (fialový), USB porty a audio konektory.
 Procesor (CPU): Procesor jsem vyndal z patice na základní desce. Procesor je na fotce otočený (vidíme kontaktní piny – jde tedy o starší typ CPU, Intel Core 2 Duo/Quad pro patici LGA 775, což odpovídá desce ASUS P5QL-E).
+
 ### 8)krok
 #### Kompletní rozložení PC
 Postup jste dodržel správně. Po demontáži máte následující dílčí části, které byly identifikovány na fotkách:
